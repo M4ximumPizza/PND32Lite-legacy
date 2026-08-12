@@ -138,20 +138,6 @@ start:
     HLT
 ```
 
-## Testing
-
-Run the complete test suite:
-```bash
-make test
-```
-
-This tests:
-- Compiler/Decompiler compilation
-- Assembly of example programs
-- Disassembly of generated binaries
-- Label resolution
-- Error handling
-
 ## Instruction Set Reference
 
 ### Arithmetic Operations
